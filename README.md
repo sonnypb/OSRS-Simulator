@@ -26,5 +26,3 @@ OSRS-Simulator is a Python program designed to help players of Old School RuneSc
 3. Run the Python script to start the simulator:
    ```bash
    python RS_Simulator.py
-
-
