@@ -18,3 +18,13 @@ OSRS-Simulator is a Python program designed to help players of Old School RuneSc
 
    ```bash
    git clone https://github.com/sonnypb/OSRS-Simulator.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd OSRS-Simulator
+
+3. Run the Python script to start the simulator:
+   ```bash
+   python RS_Simulator.py
+
+
